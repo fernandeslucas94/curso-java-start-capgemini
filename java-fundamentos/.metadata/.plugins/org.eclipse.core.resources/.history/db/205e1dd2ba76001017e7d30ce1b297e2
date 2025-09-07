@@ -1,0 +1,4 @@
+public class Atributos {
+	String nome;
+	int idade;
+}

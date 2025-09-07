@@ -1,0 +1,9 @@
+package conceitoPolimorfismo;
+
+public class BMW extends Carro{
+	
+	@Override
+	String informarDadosCarro() {
+		
+	}
+}

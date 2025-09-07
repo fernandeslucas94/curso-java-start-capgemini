@@ -1,0 +1,7 @@
+package conceitoEncapsulamento;
+
+public class ExemploEncapsulamento {
+	public static void main(String[] args) {
+		
+	}
+}

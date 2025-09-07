@@ -1,0 +1,52 @@
+!SESSION 2025-08-13 16:21:11.527 -----------------------------------------------
+eclipse.buildId=4.36.0.20250605-1300
+java.version=21.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product -data /home/lucas-feitosa/Área de Trabalho/cursos-java-start/linguagem-programacao-java
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-13 16:21:22.326
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-13 16:21:25.238
+!MESSAGE Logback config file: /home/lucas-feitosa/Área de Trabalho/cursos-java-start/linguagem-programacao-java/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+!SESSION 2025-08-14 16:16:33.797 -----------------------------------------------
+eclipse.buildId=4.36.0.20250605-1300
+java.version=21.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product -data /home/lucas-feitosa/Área de Trabalho/cursos-java-start/linguagem-programacao-java
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-14 16:16:35.846
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-14 16:16:37.053
+!MESSAGE Logback config file: /home/lucas-feitosa/Área de Trabalho/cursos-java-start/linguagem-programacao-java/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+!SESSION 2025-08-15 10:21:00.166 -----------------------------------------------
+eclipse.buildId=4.36.0.20250605-1300
+java.version=21.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-15 10:21:11.404
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-15 10:21:17.132
+!MESSAGE Logback config file: /home/lucas-feitosa/Área de Trabalho/cursos-java-start/linguagem-programacao-java/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+!SESSION 2025-08-24 20:41:50.049 -----------------------------------------------
+eclipse.buildId=4.36.0.20250605-1300
+java.version=21.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-24 20:42:03.059
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-24 20:42:10.030
+!MESSAGE Logback config file: /home/lucas-feitosa/Área de Trabalho/cursos-java-start/linguagem-programacao-java/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml

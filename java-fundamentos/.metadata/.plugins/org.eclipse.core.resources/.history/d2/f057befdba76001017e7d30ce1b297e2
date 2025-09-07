@@ -1,0 +1,9 @@
+package conceitoAtributos;
+public class Atributos {
+	int n1, n2;
+	
+	int somarNumeros(int n1, int n2) {
+		int resultadoSoma = n1 + n2;
+		return resultadoSoma;
+	}
+}

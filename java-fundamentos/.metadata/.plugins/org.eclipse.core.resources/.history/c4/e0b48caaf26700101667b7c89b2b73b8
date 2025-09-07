@@ -1,0 +1,7 @@
+package classeConceitos;
+
+public class PrincipalClasses {
+	public static void main(String[] args) {
+		Classe carro1 = new Classe();
+	}
+}

@@ -1,0 +1,24 @@
+/** 
+ * Nesta seção de estudos iremos conhecer os conceitos sobre herança.
+ * 
+ * O que é herença no Java?
+ * 
+ * Herança, como o nome diz, é o ato de uma classe herdar de outra, atributos e métodos que poderãp ser utilizados em algum momento.
+ * 
+ * Iremos ver no exemplo sobre funcionário, que não precisamos repetir todos os atributos em todas as classes relacionadas à funcionário.
+ * Temos a classe Funcionário, a qual contém dados básicos do funcinário, e temos classes específicas para cada cargo com seus atributos específicos.
+ * 
+ * Para utilizamos o conceito de herança no Java, ao declararmos uma nova classe que poderá herdar atributos e métodos, devemos, após o nome da classe,
+ * adicionar a palavra extends, e o nome da nova classe. Ao fazer isto, estamos dizendo que a nova classe irá ser uma extensão da outra,
+ * adicionando as novas informações da nova classe.
+ * 
+ * Vejamos no exemplo como funciona.
+ * */
+
+package conceitoHeranca;
+
+public class Principal {
+	public static void main(String[] args) {
+		
+	}
+}

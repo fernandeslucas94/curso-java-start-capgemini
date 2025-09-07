@@ -1,0 +1,18 @@
+package conceitoHeranca;
+
+public class Vendedor extends Funcionario {
+	public int comissao, quantidadeVendasMes;
+	
+	public void setComissao(int comissao) {
+		this.comissao = comissao;
+	}
+	
+	public int getComissao(int comissao) {
+		return comissao;
+	}
+	
+	public String calcularSalario(int salario) {
+		float salarioVendedor = salario * comissao;
+		return "A comissão do vendedor é de" + comissao + "e seu salário é de: R$ " + salarioVendedor + "!";
+	}
+}

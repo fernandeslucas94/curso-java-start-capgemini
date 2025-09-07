@@ -1,0 +1,23 @@
+package conceitoEncapsulamento;
+
+public class Encapsulamento {
+	/** 
+	 * Nesta seção de estudos, iremos conhecer os conceitos de encapsulamento.
+	 * 
+	 * O que é encapsulamento?
+	 * 
+	 * Encapsulamento diz respeito à "blindar" a classe e seus atributos e métodos, do acesso e manipulação por parte de outras classes.
+	 * 
+	 * Normalmente, quando criamos uma classe, os atributos e métodos estão acessíveis à outras classes no projeto, sendo possível, assim,
+	 * com que haja a manipulação dos dados da classe por parte de outras classes. 
+	 * 
+	 * Com o encapsulamento isto não ocorre. Ao utilizarmos o encapsulamento, os atributos e métodos ficam inacessíveis, diretamente,
+	 * por outras classes. Para que haja alguma alteração de dado, é necessário que a classe "requisitante", "solicite" determinada alteração,
+	 * que irá ser feita pela classe "requisitada".
+	 * 
+	 * Para que isto ocorra, precisamos usar o modificador de acesso Private, que irá tornar o atributo privado e somente acessível diretamente,
+	 * pela classe onde ele foi declarado.
+	 * 
+	 * Vejamos abaixo um exemplo.
+	 * */
+}
