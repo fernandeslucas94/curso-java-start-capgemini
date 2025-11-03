@@ -1,7 +1,0 @@
-package conceitoEncapsulamento;
-
-public class ExemploEncapsulamento {
-	public static void main(String[] args) {
-		Encapsulamento pes1 = new Encapsulamento();
-	}
-}

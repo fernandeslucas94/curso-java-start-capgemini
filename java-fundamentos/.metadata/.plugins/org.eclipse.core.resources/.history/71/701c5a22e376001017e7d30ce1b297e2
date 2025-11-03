@@ -1,7 +1,0 @@
-package conceitoHeranca;
-
-public class Funcionario {
-	private String nome, cpf, nacionalidade;
-	private char genero;
-	private int codigoFuncionario;
-}

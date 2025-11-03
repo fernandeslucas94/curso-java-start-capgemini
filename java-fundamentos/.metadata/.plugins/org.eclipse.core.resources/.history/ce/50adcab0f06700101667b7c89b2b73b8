@@ -1,9 +1,0 @@
-package classeConceitos;
-
-public class Classe {
-
-	public static void main(String[] args) {
-		// Nesta seção de estudos iremos conhecer os conceitos sobre classe.
-
-	}
-}

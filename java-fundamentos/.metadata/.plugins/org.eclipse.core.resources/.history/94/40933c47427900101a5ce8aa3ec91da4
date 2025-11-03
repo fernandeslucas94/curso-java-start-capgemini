@@ -1,8 +1,0 @@
-package conceitoPolimorfismo;
-
-abstract class Carro {
-	String cor, marca, modelo;
-	int anoFabricacao, anoModelo;
-	
-	abstract String informarDadosCarro(String cor, String marca, String modelo);
-}

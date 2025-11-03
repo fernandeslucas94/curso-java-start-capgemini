@@ -1,6 +1,0 @@
-package conceitoPolimorfismo;
-
-public class Carro {
-	String cor, marca, modelo;
-	int anoFabricacao, anoModelo;
-}

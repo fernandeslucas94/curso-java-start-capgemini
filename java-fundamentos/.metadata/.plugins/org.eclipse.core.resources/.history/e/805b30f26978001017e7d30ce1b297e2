@@ -1,7 +1,0 @@
-package conceitoPolimorfismo;
-
-public class BMW extends Carro{
-	String mostrarDadosCarro(String marca, String cor, String modelo) {
-		return "A marca do carro é " + marca + ", sua cor é " + cor + ", e seu modelo é " + modelo;
-	}
-}

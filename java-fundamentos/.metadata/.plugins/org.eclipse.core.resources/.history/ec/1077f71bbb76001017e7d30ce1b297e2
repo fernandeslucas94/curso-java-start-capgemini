@@ -1,7 +1,0 @@
-package conceitoAtributos;
-
-public class ExemploAtributos {
-	public static void main(String[] args) {
-		
-	}
-}

@@ -1,7 +1,0 @@
-package conceitoMetodos;
-
-public class ExemploMetodos {
-	public static void main(String[] args) {
-		
-	}
-}

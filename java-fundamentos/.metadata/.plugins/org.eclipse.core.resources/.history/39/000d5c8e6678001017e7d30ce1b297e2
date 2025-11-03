@@ -1,5 +1,0 @@
-package conceitoPolimorfismo;
-
-public class Uno extends Carro{
-	
-}

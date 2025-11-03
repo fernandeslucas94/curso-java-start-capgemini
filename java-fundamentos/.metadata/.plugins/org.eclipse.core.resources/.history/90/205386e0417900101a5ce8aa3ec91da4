@@ -1,9 +1,0 @@
-package conceitoPolimorfismo;
-
-public class BMW extends Carro{
-	@Override
-	void informarDadosCarro() {
-		// TODO Auto-generated method stub
-		
-	}
-}
