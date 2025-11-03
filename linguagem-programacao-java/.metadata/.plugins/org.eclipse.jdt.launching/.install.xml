@@ -2,8 +2,13 @@
 <dirs>
     <entry loc="/snap/eclipse/124/usr/lib/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.7.v20250502-0916" stamp="1749563312000"/>
     <entry loc="/snap/eclipse/124/usr/lib/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.7.v20250502-0916/jre" stamp="1749563312000"/>
+    <entry loc="/app/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.8.v20250724-1412" stamp="0"/>
+    <entry loc="/home/lucas-feitosa/Downloads/eclipse-java-2025-09-R-linux-gtk-x86_64/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.8.v20250724-1412/jre" stamp="1757088596365"/>
     <entry loc="/snap/eclipse/127/usr/lib/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.8.v20250724-1412/jre" stamp="1757444990000"/>
     <entry loc="/usr/lib/jvm/java-17-openjdk-amd64" stamp="1757980818866"/>
+    <entry loc="/app/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.8.v20250724-1412/jre" stamp="0"/>
     <entry loc="/snap/eclipse/127/usr/lib/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.8.v20250724-1412" stamp="1757444990000"/>
     <entry loc="/usr/lib/jvm/java-21-openjdk-amd64" stamp="1753448036528"/>
+    <entry loc="/usr/lib/jvm/java-11-openjdk-amd64" stamp="1762037930441"/>
+    <entry loc="/home/lucas-feitosa/Downloads/eclipse-java-2025-09-R-linux-gtk-x86_64/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.8.v20250724-1412" stamp="1757088596365"/>
 </dirs>
