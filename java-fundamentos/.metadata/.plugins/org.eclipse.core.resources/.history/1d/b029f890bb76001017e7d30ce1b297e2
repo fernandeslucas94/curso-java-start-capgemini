@@ -1,0 +1,20 @@
+package conceitoAtributos;
+
+public class Atributos {
+	/** 
+	 * Nesta seção de estudos iremos conhecer os conceitos sobre atributos.
+	 * 
+	 * O que são atributos?
+	 * 
+	 * Atributos, são características de um objeto, que iremos definir na estrutura da classe à qual será instansiada para criação do objeto.
+	 * 
+	 * No exemplo abaixo, onde queremos realizar uma soma, os atributos que estamos definindo são o número 1 - n1, e o número 2 - n2. 
+	 * Desta forma, 
+	 * */
+	int n1, n2;
+	
+	int somarNumeros(int n1, int n2) {
+		int resultadoSoma = n1 + n2;
+		return resultadoSoma;
+	}
+}

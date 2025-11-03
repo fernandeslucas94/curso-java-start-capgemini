@@ -1,0 +1,12 @@
+package classeConceitos;
+
+public class PrincipalClasses {
+	public static void main(String[] args) {
+		Classe carro1 = new Classe();
+		
+		carro1.nomeCarro = "Uno";
+		carro1.modeloCarro = "Mille";
+		carro1.marcaCarro = "Fiat";
+		carro1.corCarro = "Branco";
+	}
+}

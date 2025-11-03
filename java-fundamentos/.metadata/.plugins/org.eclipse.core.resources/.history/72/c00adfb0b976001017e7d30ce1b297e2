@@ -1,0 +1,12 @@
+package conceitoMetodos;
+
+public class MetodosConceito {
+	/** 
+	 * Nesta seção de estudos, iremos conhecer os conceitos relacionados à métodos no Java.
+	 * 
+	 * O que são métodos?
+	 * 
+	 * Métodos são, basicamente, estruturas semelhantes a funções, que irão executar uma ação específica em algum determinado momento 
+	 * da execução da aplicação
+	 * */
+}

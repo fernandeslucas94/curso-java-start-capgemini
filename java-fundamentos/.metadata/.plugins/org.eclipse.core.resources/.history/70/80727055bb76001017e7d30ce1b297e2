@@ -1,0 +1,17 @@
+package conceitoAtributos;
+
+public class Atributos {
+	/** 
+	 * Nesta seção de estudos iremos conhecer os conceitos sobre atributos.
+	 * 
+	 * O que são atributos?
+	 * ]
+	 * ]
+	 * */
+	int n1, n2;
+	
+	int somarNumeros(int n1, int n2) {
+		int resultadoSoma = n1 + n2;
+		return resultadoSoma;
+	}
+}

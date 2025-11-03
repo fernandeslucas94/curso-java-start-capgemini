@@ -1,0 +1,11 @@
+package conceitoPolimorfismo;
+
+public class Principal {
+	public static void main(String[] args) {
+		Carro carro1 = new BMW();
+		
+		carro1.cor = "Branca";
+		carro1.marca = "BMW";
+		carro1.modelo = "";
+	}
+}

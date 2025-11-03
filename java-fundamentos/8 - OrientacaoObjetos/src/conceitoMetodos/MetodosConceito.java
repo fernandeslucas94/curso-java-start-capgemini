@@ -1,0 +1,25 @@
+package conceitoMetodos;
+
+public class MetodosConceito {
+	/** 
+	 * Nesta seção de estudos, iremos conhecer os conceitos relacionados à métodos no Java.
+	 * 
+	 * O que são métodos?
+	 * 
+	 * Métodos são, basicamente, estruturas semelhantes a funções, que irão executar uma ação específica em algum determinado momento 
+	 * da execução da aplicação.
+	 * 
+	 * Um método, por exemplo, pode receber os dados de uma pessoa e, após sua execução, poderá mostrar para o usuário as informações recebidas.
+	 * 
+	 * Veremos abaixo um exemplo do uso do método.
+	 * */
+	
+	// Atributos
+	String nome;
+	int idade;
+	
+	// Método
+	 String informarDados(String nome, int idade) {
+		 return "O nome do usuário é: " + nome + ", e sua idade é de: " + idade + " anos de idade!" ;
+	}
+}

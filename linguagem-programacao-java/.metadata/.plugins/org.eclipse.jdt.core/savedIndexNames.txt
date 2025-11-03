@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+/mnt/F6C6A09CC6A05F1D/arquivos-area-de-trabalho/cursos-java-start/linguagem-programacao-java/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index

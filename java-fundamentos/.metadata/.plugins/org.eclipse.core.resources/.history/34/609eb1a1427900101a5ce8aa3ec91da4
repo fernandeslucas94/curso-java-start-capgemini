@@ -1,0 +1,31 @@
+/** 
+ * Nesta seção de estudos iremos conhecer os conceitos a cerca de polimorfismo.
+ * 
+ * O que é polimorfismo?
+ * 
+ * Polimorfismo, como o nome diz - Poli ( Múltiplas ), Morfismo ( Formas ). Sendo assim, seria o ato de aplicar diferentes formas à uma classe.
+ * */
+
+package conceitoPolimorfismo;
+
+public class Principal {
+	public static void main(String[] args) {
+		Carro carro1 = new BMW();
+		
+		carro1.cor = "Branca";
+		carro1.marca = "BMW";
+		carro1.modelo = "x4";
+		carro1.anoFabricacao = 2025;
+		carro1.anoModelo = 2025;
+		
+	
+		Carro carro2 = new Uno();
+		
+		carro2.cor = "Azul";
+		carro2.marca = "Fiat";
+		carro2.modelo = "Mille";
+		carro2.anoFabricacao = 2004;
+		carro2.anoModelo = 2004;
+		
+	}
+}
