@@ -6,6 +6,6 @@
     <fullyQualifiedTypeName name="exemploPrivate.PrivatePrincipal"/>
     <fullyQualifiedTypeName name="com.sun.tools.javac.main.JavaCompiler.InitialFileParserIntf"/>
     <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>

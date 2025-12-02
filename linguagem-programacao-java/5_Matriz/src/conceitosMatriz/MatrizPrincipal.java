@@ -6,6 +6,8 @@
  * Vetor, é o que também é conhecido como array. No caso do do vetor, ele é um array unidimencional. Ou seja,
  * ele irá armazenar somente um tipo de dado.
  * 
+ * 
+ * 
  * O que é matriz?
  * 
  * Matriz, que também é conhecido como array, mas neste caso, array multidimencional, diferente do vetor,
